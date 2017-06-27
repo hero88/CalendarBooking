@@ -1,0 +1,19 @@
+{
+  "name": "Appointments",
+  "version": "0.0.0",
+  "description": "Appointments using AngularJS, NodeJS and MongoDB (Javascript Fullstack)",
+  "main": "server.js",
+  "author": {
+    "name": "LONG"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.7",
+    "node-restful": "^0.2.6"
+  }
+}
